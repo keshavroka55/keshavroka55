@@ -32,11 +32,21 @@
 
 ---
 
-### 🌐 You can also find me on:
-<p>
-<a href="https://www.linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" /></a>
-<a href="https://www.instagram.com/yourprofile"><img src="https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge" /></a>
-</p>
+#### You can also find me on: 
+
+[<img align="left" alt="entbappy | LinkedIn" width="30px" src="https://img.icons8.com/color/48/000000/linkedin.png" />][linkedin]
+[<img align="left" alt="entbappy | Twitter" width="30px" src="https://img.icons8.com/fluent/48/000000/twitter.png" />][twitter]
+[<img align="left" alt="entbappy | Instagram" width="30px" src="https://img.icons8.com/fluent/48/000000/instagram-new.png" />][Instagram]
+
+                                                                                                                                                                       
+
+<br>
+
+<hr>
+
+[linkedin]: https://www.linkedin.com/in/keshav-roka/
+[twitter]: https://twitter.com/keshav
+[Instagram]: https://www.instagram.com/keshav55/
 
 ---
 
@@ -46,7 +56,7 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=keshavroka55&layout=compact&theme=tokyonight" height="180px"/>
 </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=keshavroka55&label=Profile%20views&color=0e75b6&style=flat" alt="entbappy" /> </p>
-
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=keshavroka55&show_icons=true&locale=en" alt="entbappy" /></p>
 ---
 
 ⭐ From [Keshav Roka](https://github.com/keshavroka55)
