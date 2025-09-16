@@ -69,9 +69,7 @@
 ### 📊 GitHub Stats:
 <p>
 <img src="https://github-readme-stats.vercel.app/api?username=keshavroka55&show_icons=true&theme=tokyonight" height="180px"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=keshavroka55&layout=compact&theme=tokyonight" height="180px"/>
-</p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=keshavroka55&show_icons=true&locale=en" alt="entbappy" /></p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=keshavroka55&layout=compact&theme=tokyonight" height="180px"/></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=keshavroka55&" alt="entbappy" /></p>
 
 ⭐ From [Keshav Roka](https://github.com/keshavroka55)
