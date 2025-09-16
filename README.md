@@ -4,7 +4,6 @@
 
 I'm a Software Engineer | Learner | Tech Enthusiast 🚀  
 
----
 
 ### 🔬 I have technical experience and interest in:
 - Artificial Intelligence
@@ -16,7 +15,7 @@ I'm a Software Engineer | Learner | Tech Enthusiast 🚀
 - Internet of Things (IoT)
 - Web Development
 
----
+
 
 ### 🛠️ Languages and Tools:
 <p>
@@ -25,7 +24,6 @@ I'm a Software Engineer | Learner | Tech Enthusiast 🚀
 <img src="https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" />
 </p>
 
----
 
 ### 🎯 My Hobbies and Interests:
 - Traveling ✈️  
@@ -34,7 +32,6 @@ I'm a Software Engineer | Learner | Tech Enthusiast 🚀
 - Fitness 💪  
 - Music 🎶  
 
----
 
 ### 🌐 You can also find me on:
 <p>
@@ -42,7 +39,6 @@ I'm a Software Engineer | Learner | Tech Enthusiast 🚀
 <a href="https://www.instagram.com/yourprofile"><img src="https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge" /></a>
 </p>
 
----
 
 ### 📊 GitHub Stats:
 <p>
@@ -50,5 +46,5 @@ I'm a Software Engineer | Learner | Tech Enthusiast 🚀
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=keshavroka55&layout=compact&theme=tokyonight" height="180px"/>
 </p>
 
----
+
 ⭐ From [Keshav Roka](https://github.com/keshavroka55)
