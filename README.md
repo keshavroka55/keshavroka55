@@ -10,10 +10,8 @@
 - Machine Learning
 - Deep Learning
 - Natural Language Processing
-- Data Science
 - Robotics
 - Internet of Things (IoT)
-- Web Development
 
 ---
 
