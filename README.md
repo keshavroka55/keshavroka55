@@ -1,10 +1,7 @@
 # 😎 Hey! Nice to see you.
 
----
 
 ## I'm Keshav 😃
-
----
 
 I'm a Software Engineer | Learner | Tech Enthusiast 🚀  
 
