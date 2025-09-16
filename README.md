@@ -55,8 +55,8 @@
 <img src="https://github-readme-stats.vercel.app/api?username=keshavroka55&show_icons=true&theme=tokyonight" height="180px"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=keshavroka55&layout=compact&theme=tokyonight" height="180px"/>
 </p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=keshavroka55&label=Profile%20views&color=0e75b6&style=flat" alt="entbappy" /> </p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=keshavroka55&show_icons=true&locale=en" alt="entbappy" /></p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=keshavroka55&label=Profile%20views+200&color=0e75b6&style=flat" alt="entbappy" /> </p>
 ---
 
 ⭐ From [Keshav Roka](https://github.com/keshavroka55)
