@@ -42,10 +42,6 @@
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=keshavroka55&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F0FF&icon_color=9D4EDD&text_color=C9D1D9&count_private=true" />
-
-<br/><br/>
-
 
 <h2>🌐 Connect With Me</h2>
 
