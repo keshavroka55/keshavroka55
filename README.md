@@ -13,7 +13,7 @@
 <br/>
 
 <!-- Animated Typing Tagline -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2500&pause=600&color=00F0FF&center=true&vCenter=true&width=650&lines=You;Yes+you;I+am+talking+to+you;What+are+you+doing;You're+asking+me+what+i+am+doing;i+Building+things+that+matter;and;Just+ship+it+to+the+production+env." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2500&pause=600&color=00F0FF&center=true&vCenter=true&width=650&lines=You;Yes+you;I+am+talking+to+you;What+are+you+doing;You're+asking+me+what+i+am+doing;I+Building+things+that+matter;&;Shipping+to+the+production+env." alt="Typing SVG" />
 
 <br/><br/>
 
