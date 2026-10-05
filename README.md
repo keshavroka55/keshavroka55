@@ -1,6 +1,4 @@
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-<!--                    KESHAV OS  ·  v2.0.26  ·  BOOTING...                     -->
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+
 
 <div align="center">
 
@@ -11,23 +9,4 @@
 
 <br/>
 
-<!-- Status Badges -->
-<img src="https://img.shields.io/badge/STATUS-ONLINE-00F0FF?style=for-the-badge&labelColor=0D1117&logo=statuspage&logoColor=00F0FF" />
-<img src="https://img.shields.io/badge/MODE-BUILDING-9D4EDD?style=for-the-badge&labelColor=0D1117&logo=rocket&logoColor=9D4EDD" />
-<img src="https://img.shields.io/badge/COFFEE-∞-FF6B6B?style=for-the-badge&labelColor=0D1117&logo=buymeacoffee&logoColor=FF6B6B" />
-
 </div>
-
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-
-```bash
-┌──[keshav@dev-machine]─[~/about]
-└─$ ./run_intro.sh
-
-  ▸ Name      : Keshav
-  ▸ Role      : Software Engineer
-  ▸ Location  : Earth 🌍 (Remote-ready)
-  ▸ Focus     : Clean code · Scalable systems · Beautiful UX
-  ▸ Philosophy: "Simplicity is the ultimate sophistication."
